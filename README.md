@@ -10,7 +10,7 @@ I'll show you another me👇🏻👇🏻<br><br>
 #
 
 <p>Skills</p>
-<span><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/java-007396?style=flat&logo=Java&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=6DB33F"/></span>
 <span><img src="https://img.shields.io/badge/Springboot-white?style=flat&logo=Springboot&logoColor=6DB33F"/></span>
 <span><img src="https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=F05032"></span>
